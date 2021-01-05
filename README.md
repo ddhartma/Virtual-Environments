@@ -1,11 +1,11 @@
 # Virtual Environments
 Let's talk about two different Python environment managers: 
 - [***conda***](https://conda.io/en/latest/)
-- ***venv***
+- [***venv***](https://virtualenv.pypa.io/en/latest/)
     
 You can create virtual environments with either one. Below you'll read about each of these environment managers including some advantages and disadvantages. 
 
-## [Conda](https://conda.io/en/latest/) 
+## [conda](https://conda.io/en/latest/) 
 Conda does two things: 
 - manages packages
 - manages environments
@@ -42,7 +42,7 @@ conda create --name environmentname pip
 ```
 ***
 
-## Pip and Venv
+## [pip](https://pypi.org/) and [venv](https://virtualenv.pypa.io/en/latest/)
 - venv is an environment manager an comes pre-installed with Python 3. 
 - pip is a package manager
 
